@@ -1,0 +1,11 @@
+Hugh Shanno: 
+
+	 In Computer Science I: Python Language, we covered an introduction to the Python programming language. We learned how to utilize strings, variables, lists, for loops, the range function, if-then statements, logical operators, Boolean variables, imports, packages, functions, dicitonaries, loop exits, while loops, and tuples. For each of our six units, we spent one week learning and practicing the skills of that unit in an assignment, followed by another week to complete a problem qset in which we apply and synthesize the unit's skills at a higher level. Each unit concluded with a test at the end of the problem set week.
+
+	 Hugh has a stellar work ethic and student habits. Hugh collaborates very well with his classmates. From the 2 group assignments that we did this semester——the Bank Project and the Hackaton——, Hugh had a project average of 99.0. Hugh persevered throughout the course, demonstrated by test improvement. His test average improved from 98.5 in the first quarter to 99.5 in the second quarter. Hugh never sought help outside of class, but did not need to as he seemed to firmly grasp the material.
+
+	 Hugh has done extremely well on in-class exams; he has received A's on most tests, including a 97% on the final. I usually recommend to my students that they come and ask me questions outside of class. But with a test average of 99.2, Hugh clearly has not needed any extra help yet. Of course, if he ever has any questions or needs any help, he should not hestitate to come by during office hours or after school. But Hugh is clearly a talented computer scientist who independently solves problems very well. Hugh is doing excellent work in this course with ease. However, he completes the assignments and problem early and often has a lot of spare time during our work periods. Because he has so much unused time during class periods, I would encourage him to explore Java, another programming language. The AP Computer Science Test is actually in Java and I think that Hugh would do very well. I could also work with Hugh to think of more extension projects to do.
+
+	 This elective course does not necessarily come easily to everyone, but Hugh certainly handled it well. He earns an A for the semester, and I appreciated his hard work.
+
+

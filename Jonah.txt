@@ -1,0 +1,11 @@
+Jonah Song: 
+
+	 In Computer Science I: Python Language, we covered an introduction to the Python programming language. We learned how to utilize strings, variables, lists, for loops, the range function, if-then statements, logical operators, Boolean variables, imports, packages, functions, dicitonaries, loop exits, while loops, and tuples. For each of our six units, we spent one week learning and practicing the skills of that unit in an assignment, followed by another week to complete a problem qset in which we apply and synthesize the unit's skills at a higher level. Each unit concluded with a test at the end of the problem set week.
+
+	 Jonah has a good work ethic, but his habits may not be as effective as they could be. He turns in everything on time, but does not always score well. Jonah collaborates with his classmates to a satisfactory degree. From the 2 group assignments that we did this semester——the Bank Project and the Hackaton——, Jonah had a project average of 88.5. Jonah showed excellent perseverance throughout the course. His test average improved from 79.5 in the first quarter to 86.0 in the second quarter while his problem set average improved from 78.5 in the first quarter to 88.5 in the second quarter. Jonah has come to find help occasionally, but should probably come more often.
+
+	 Jonah has a little more difficulty with in-class exams; he has received B's on most tests, including an 84% on the final. With a test average of 81.8, I would recommend that Jonah comes to ask questions and get extra help. I am always free to answer questions during office hours or after school. I think Jonah should not get discouraged. With more hard work in the second semester, he will have a lot of opportunity for improvement.
+
+	 This elective course does not necessarily come easily to everyone, but Jonah handled it fairly well. He earns a B for the semester, and I appreciated his hard work.
+
+
